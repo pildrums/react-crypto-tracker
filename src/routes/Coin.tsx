@@ -9,7 +9,7 @@ import {
   Link
 } from 'react-router-dom';
 import styled from 'styled-components';
-import { fetchCoinInfo, fetchCoinTickers } from '../api';
+import { fetchCoinInfo, fetchCoinTickers } from 'api';
 
 interface RouteState {
   state: {

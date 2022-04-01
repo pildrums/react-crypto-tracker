@@ -1,4 +1,4 @@
-import { fetchCoinTickers, fetchCoinHistory } from 'api';
+import { fetchCoinHistory } from 'api';
 import ApexChart from 'react-apexcharts';
 import { Helmet } from 'react-helmet';
 import { useQuery } from 'react-query';
